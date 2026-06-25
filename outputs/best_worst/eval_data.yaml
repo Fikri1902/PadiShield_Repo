@@ -1,0 +1,13 @@
+names:
+  0: rice_blast
+  1: bacterial_leaf_blight
+  2: rice_tungro
+  3: stem_borer_insect
+  4: dead_heart
+  5: brown_planthopper
+  6: rat
+nc: 7
+path: C:/Users/Lab Aktuaria-ITS/Music/Adyatma/SatriaDATA2026/NEW_IDEA/data/processed_v3_tungro_union
+test: images/test
+train: images/train
+val: images/val

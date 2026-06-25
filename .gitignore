@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+node_modules/
+runs/
+*.log
+# dataset besar (di Google Drive, lihat data/README.md)
+data/PadiShield_Dataset/
+data/processed*/
+data/raw/

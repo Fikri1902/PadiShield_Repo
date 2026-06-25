@@ -1,0 +1,15 @@
+class,kind,image,note,n_gt,n_pred
+rice_blast,best,04_rice11_dead_heart__rice_online_data-51-_png.rf.206fdb274fd0f29edc1a46001f6a2b58.jpg,iou=0.98,1,1
+rice_blast,worst,04_rice11_dead_heart__rice_online_data-284-_png.rf.afcc845a3fae358d92531d76d5ec18b2.jpg,"missed=23, fp=0",25,2
+bacterial_leaf_blight,best,01_nischallal_rice_disease__blight_orig_020.png,iou=0.87,1,1
+bacterial_leaf_blight,worst,01_nischallal_rice_disease__blight_rotated_028.png,"missed=2, fp=1",2,1
+rice_tungro,best,02_riceleafdiseasebd_tungro__Rice_Tungro_1666.jpg,iou=0.98,1,1
+rice_tungro,worst,02_riceleafdiseasebd_tungro__Rice_Tungro_148.jpg,"missed=1, fp=2",1,2
+stem_borer_insect,best,04_rice11_dead_heart__Stem-Borer-Moth_stem_borer_moth-132-_jpg.rf.072aad5488505108657f151ea2f27953.jpg,iou=0.96,1,1
+stem_borer_insect,worst,04_rice11_dead_heart__rice_online_data-101-_png.rf.083f278be2e1a7d2f4b7637764c18a99.jpg,"missed=3, fp=0",4,1
+dead_heart,best,04_rice11_dead_heart__Deadheart_deadheart-177-_jpg.rf.01752fd491640afa4f96fabe375c2a2c.jpg,iou=0.99,1,1
+dead_heart,worst,04_rice11_dead_heart__Deadheart_deadheart-323-_jpg.rf.ae397e0b6bb6aaee206c05b449f5a6b9.jpg,"missed=2, fp=1",2,1
+brown_planthopper,best,04_rice11_dead_heart__rice_online_data-221-_png.rf.a12ad9808b5e709a371974d6a002754f.jpg,iou=0.92,4,4
+brown_planthopper,worst,04_rice11_dead_heart__BPH-Insect_bph_insect-100-_jpg.rf.eed7e1a67f2949b07718430843928458.jpg,"missed=8, fp=4",17,13
+rat,best,06_rat_yolov5__WhatsApp-Video-2022-11-01-at-17_50_15_mp4-188_jpg.rf.cfb3d30015067c407c1e7c96eca86b8b.jpg,iou=0.99,5,5
+rat,worst,06_rat_yolov5__WhatsApp-Video-2022-11-01-at-17_51_05_mp4-62_jpg.rf.98adce1042532e21845ad013080196ab.jpg,"missed=4, fp=3",6,5

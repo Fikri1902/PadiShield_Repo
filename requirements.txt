@@ -1,0 +1,7 @@
+# PadiShield - pipeline model (penyiapan data -> pelatihan -> validasi)
+ultralytics>=8.3.0
+opencv-python
+pillow
+numpy
+pyyaml
+# torch terpasang otomatis bersama ultralytics; untuk GPU pasang build CUDA dari pytorch.org

@@ -1,0 +1,17 @@
+# PadiShield dataset (v3, tungro union) - split yang melatih model final (exp4b).
+# UNDUH citra dari Google Drive (lihat data/README.md), letakkan di ./data/PadiShield_Dataset,
+# lalu path di bawah sudah benar.
+path: ./data/PadiShield_Dataset
+train: images/train
+val: images/val
+test: images/test
+
+nc: 7
+names:
+  0: rice_blast
+  1: bacterial_leaf_blight
+  2: rice_tungro
+  3: stem_borer_insect
+  4: dead_heart
+  5: brown_planthopper
+  6: rat
